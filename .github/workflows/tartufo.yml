@@ -1,0 +1,19 @@
+name: Tartufo Secret Scanning
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+
+jobs:
+  tartufo-scan:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+
+    - name: Tartufo Scan
+      uses: godaddy/tartufo-action@4.1.0
