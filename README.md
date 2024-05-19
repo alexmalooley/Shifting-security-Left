@@ -44,7 +44,8 @@ Shifting security left means incorporating security practices early in the devel
 
 The SBOM provides a detailed inventory of the components used in the project, ensuring transparency and aiding in vulnerability management.
 
-- [SBOM File](https://github.com/alexmalooley/Shifting-security-Left/blob/main/SBOMShifting-security-Left_alexmalooley_494c99c0a2a790cece3e65ecff04dda61a05952b.json)
+- ![SBOM File](https://i.allthepics.net/2024/05/19/SBOMShifting-security-Left_alexmalooley_494c99c0a2a790cece3e65ecff04dda61a05952b-page-1.png)
+- [SBOM JSON](https://github.com/alexmalooley/Shifting-security-Left/blob/main/SBOMShifting-security-Left_alexmalooley_494c99c0a2a790cece3e65ecff04dda61a05952b.json)
 
 ## Conclusion
 
@@ -53,4 +54,5 @@ By incorporating these security practices and tools into your development workfl
 Feel free to explore the repository and the workflows to understand how these tools are integrated and used. If you have any questions or feedback, please open an issue or reach out to the repository maintainer.
 
 Happy coding and stay secure!
+
 
